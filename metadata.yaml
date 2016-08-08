@@ -1,0 +1,41 @@
+_repo: The-Trail-of-the-Tramp--13-By-A-No.-1-the-Famous-Tramp-Written-by-Himself-from-Actual-Experie__12424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A-No. 1
+    aliases:
+    - 1, A-No.
+    - Livingston, L. R. (Leon Ray)
+    - Livingston, Leon Ray
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '4360'
+    url: http://www.gutenberg.org/2009/agents/4360
+    wikipedia: http://en.wikipedia.org/wiki/Leon_Ray_Livingston
+description: It is recommended the reader drink moonshine before reading this hardnosed
+  edition of A No. 1's hobo story cycle, which presents cautionary tales of clueless
+  youth corrupted by the road. Lessons covered include ""do unto others before they
+  do unto you"" and the difference between yeggars (who steal and rob) and plingers
+  (a begging class). As is the case with all A. No. 1 books, the hobo stories are
+  richly illustrated with beautiful early American prints and cartoons. First published
+  in 1913.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Tramps'
+- GITenberg
+tableOfContents: The Harvester -- The Samaritans -- The Wreck -- The Drifter -- The
+  Call of the City -- The Golden Rule Hotel -- False Friends -- Busting a Broncho
+  -- The Abyss -- Slippery, the Yegg -- The Wages of Sin is Death -- Scattered to
+  the Winds -- Where is my Brother James -- The Noble Work of the Salvation Army --
+  Forgive and Forget -- All is Well, that Ends Well.
+title: "The Trail of the Tramp\r\nBy A-No. 1, the Famous Tramp, Written by Himself\
+  \ from Actual Experiences of His Own Life"
+url: http://www.gutenberg.org/ebooks/12424
