@@ -1,5 +1,8 @@
 _repo: The-Trail-of-the-Tramp--13-By-A-No.-1-the-Famous-Tramp-Written-by-Himself-from-Actual-Experie__12424
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 12424-h/cover.jpg
 creator:
   author:
     agent_name: A-No. 1
@@ -19,6 +22,8 @@ description: It is recommended the reader drink moonshine before reading this ha
   (a begging class). As is the case with all A. No. 1 books, the hobo stories are
   richly illustrated with beautiful early American prints and cartoons. First published
   in 1913.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12424#The-Trail-of-the-Tramp--13-By-A-No.-1-the-Famous-Tramp-Written-by-Himself-from-Actual-Experie_
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
